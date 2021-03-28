@@ -1,0 +1,9 @@
+C:\Users\ady\source\repos\RBXGenerator\RBXGenerator\bin\Release\RBXGenerator.exe
+C:\Users\ady\source\repos\RBXGenerator\RBXGenerator\bin\Release\RBXGenerator.pdb
+C:\Users\ady\source\repos\RBXGenerator\RBXGenerator\obj\Release\RBXGenerator.csprojAssemblyReference.cache
+C:\Users\ady\source\repos\RBXGenerator\RBXGenerator\obj\Release\RBXGenerator.Form1.resources
+C:\Users\ady\source\repos\RBXGenerator\RBXGenerator\obj\Release\RBXGenerator.Properties.Resources.resources
+C:\Users\ady\source\repos\RBXGenerator\RBXGenerator\obj\Release\RBXGenerator.csproj.GenerateResource.cache
+C:\Users\ady\source\repos\RBXGenerator\RBXGenerator\obj\Release\RBXGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ady\source\repos\RBXGenerator\RBXGenerator\obj\Release\RBXGenerator.exe
+C:\Users\ady\source\repos\RBXGenerator\RBXGenerator\obj\Release\RBXGenerator.pdb
